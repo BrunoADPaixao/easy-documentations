@@ -14,4 +14,6 @@ Up today, we've got that features:
 
 -->> Languagues support: Portuguese (Brasil).
 
+-->> The complete guide about React Native Setup in Lunix OS.
+ 
 -->> Solved problems for: Git; React Native; Nodejs; NPM (Node Package Manager).
