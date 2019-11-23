@@ -1,0 +1,2 @@
+-->> Desfazer o git init de uma pasta:
+	$ rm -rf .git

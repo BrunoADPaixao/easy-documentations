@@ -1,0 +1,20 @@
+1º Passo: Limpar o cache do npm
+
+    $ sudo npm cache clean -f
+
+2º Passo: Instalação do pacote n (Pacote para gerenciamento do Node.JS)
+
+    $ sudo npm install -g n
+
+3º Passo: Atualização
+
+    $ sudo n stable
+
+Pronto, sua atualização foi realizada com sucesso. Para verificar basta executar o seguinte comando:
+
+    $ node -v
+    v4.0.0
+
+Observação: Você pode utilizar o mesmo comando para retornar para uma versão antiga, alterando a variável stable pelo número da versão. Exemplo:
+    $ sudo n 0.12.7
+Esse é o método que acredito ser o mais simples para a atualização, caso tenham dúvidas ou sugestões, favor encaminhar por e-mail (dleitee@gmail.com).
